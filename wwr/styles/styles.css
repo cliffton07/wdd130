@@ -1,0 +1,37 @@
+div{
+ content: " ";   
+max-width: 1600px;
+margin:0 auto;
+
+}
+
+body{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+background {
+    height: 725px;
+}
+      
+body {
+    background-color: #a19696; 
+}
+header {
+    background-color:rgba(31, 44, 22, 0.7);
+}
+nav a:hover {
+    background-color: rgb(177, 27, 27);
+}
+nav a:hover {
+    background-color: rgb(64, 37, 88);
+    color: #927f65;
+}  
+
+.icon {
+
+    width: 80px;
+}
+
+   
